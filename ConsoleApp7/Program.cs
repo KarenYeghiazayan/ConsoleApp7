@@ -39,6 +39,13 @@ namespace ConsoleApp7
                 Console.WriteLine("Student**************************************");
                 Console.WriteLine($"id - {swappedStudens[i]._id} age - {swappedStudens[i]._age} name - {swappedStudens[i]._name} bd - {swappedStudens[i]._birthDate}");
                 Console.WriteLine("Teacher**************************************");
+               
+                
+                
+                
+                
+                
+                
                 Console.WriteLine($"id - {swappedStudens[i]._teacher._id} age - {swappedStudens[i]._teacher._age} name - {swappedStudens[i]._teacher._name} bd - {swappedStudens[i]._teacher._birthDate}");
 
             }
